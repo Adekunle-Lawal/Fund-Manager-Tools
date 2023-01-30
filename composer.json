@@ -1,0 +1,9 @@
+{
+   "require": {
+     "ext-mysql": "*",
+       "Nixpacks": "v1.0.2"
+   },
+    "require": {
+       "ext-gettext": "*"
+     }
+ }
